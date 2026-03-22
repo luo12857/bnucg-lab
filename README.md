@@ -53,4 +53,6 @@
 - 立方体模式：显示白色线框立方体，旋转时可清晰观察 3D 透视变化；
 - 所有渲染结果均为实时生成，旋转操作流畅无卡顿。
 ### 2. 结果
-![实验结果.gif](https://github.com/luo12857/bnucg-lab/blob/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/luo12857/bnucg-lab/main/result.gif" width="600" alt="MVP变换3D立方体渲染效果">
+</div>
